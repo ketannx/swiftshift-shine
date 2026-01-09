@@ -2,7 +2,7 @@
 import axios from "axios";
 
 const instance = axios.create({
-  baseURL: "https://swiftshiftshine-git-main-ketans-projects-e509d427.vercel.app/api",
+  baseURL: "http://swiftshift-shine.onrender.com/api",
 });
 
 instance.interceptors.request.use((config) => {

@@ -35,13 +35,13 @@ function Footer() {
         <div>
           <h3 className="text-lg font-semibold mb-4">Connect</h3>
           <div className="flex gap-4 text-2xl text-green-200">
-            <a href="#" className="hover:text-white transition">
+            <a href="https://www.instagram.com/swiftshiftshine?igsh=MTdmNHI1ZmdmczhxMQ==" className="hover:text-white transition">
               <FaInstagram />
             </a>
-            <a href="#" className="hover:text-white transition">
+            <a href="https://www.facebook.com/share/19ArjtZdAj/?mibextid=wwXIfr" className="hover:text-white transition">
               <FaSquareFacebook />
             </a>
-            <a href="#" className="hover:text-white transition">
+            <a href="https://youtube.com/@swiftshiftshine?si=b1Uc8J_lWvpOsGe_" className="hover:text-white transition">
               <FaYoutube />
             </a>
           </div>

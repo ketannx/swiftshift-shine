@@ -2,7 +2,7 @@
 import axios from "axios";
 
 const instance = axios.create({
-  baseURL: "http://swiftshift-shine.onrender.com/api",
+  baseURL: "https://swiftshift-shine.onrender.com/api",
 });
 
 instance.interceptors.request.use((config) => {
